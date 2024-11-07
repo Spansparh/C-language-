@@ -1,4 +1,5 @@
 //Author: Michael Mwaura 
+// Reg no: CT101/G/24419/24
 //Title : structures 
 //c structures
  #include<stdio.h>
