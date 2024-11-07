@@ -1,4 +1,6 @@
- //c structures
+//Author: Michael Mwaura 
+//Title : structures 
+//c structures
  #include<stdio.h>
  #include<string.h>
  struct book {
