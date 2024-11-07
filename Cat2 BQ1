@@ -1,0 +1,37 @@
+//Author:Michael Mwaura
+//Reg no:CT101/G/24419/24
+//Title:Cat2 BQ1
+
+#include<stdio.h>
+#include<string.h>
+ 
+ struct employee{
+     char name[25];
+     int id;
+     char department[20];
+     float salary;
+     char email[50];
+ };
+ int main(){
+   struct employee emp1={
+   
+"John Doe",
+12345,
+"Human Resource",
+55000.50,
+"johndoe@ company.com"
+   };
+   printf("name:%s\n",emp1.name);
+   printf("id:%d\n",emp1.id);
+   printf("department:%s\n",emp1.department);
+   printf("salary:%f\n",emp1.salary);
+   printf("email:%s\n",emp1.email);
+   return 0;
+ }
+   
+   
+   
+ 
+ 
+ 
+ 
