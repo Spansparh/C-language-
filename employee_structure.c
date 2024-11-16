@@ -1,11 +1,9 @@
-//Structures in c language
+
 /*
-Employee structure
-author:Kelvin
-Reg no:CT101/G/25008/24
-date:09/11/24
+Author:Michael Mwaura
+Reg no:CT101/G/24419/24
 */
-//preprocessor directves
+
 #include<stdio.h>
 struct employee{
     char name[25];
