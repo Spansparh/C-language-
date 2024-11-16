@@ -3,7 +3,7 @@
 author: Michael Mwaura 
 Reg no:CT101/G/24419/24
 */
-//preprocessor directves
+
 #include<stdio.h>
 
 int main(){
