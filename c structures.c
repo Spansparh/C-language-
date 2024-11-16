@@ -1,7 +1,7 @@
-//Author: Michael Mwaura 
-// Reg no: CT101/G/24419/24
-//Title : structures 
-//c structures
+/*Author: Michael Mwaura 
+Reg no: CT101/G/24419/24
+*/
+
  #include<stdio.h>
  #include<string.h>
  struct book {
